@@ -38,3 +38,5 @@ debug/
 .vscode/
 .idea/
 *.iml
+
+*.ipynb
