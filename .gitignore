@@ -38,3 +38,9 @@ debug/
 .vscode/
 .idea/
 *.iml
+
+*.ipynb
+
+
+# Track only model folder .pth files
+!model/*.pth
