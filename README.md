@@ -1,4 +1,9 @@
 # PRETOX Text Classifier with BioBERT
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat-square&logo=streamlit)
+![BioBERT](https://img.shields.io/badge/Model-BioBERT-green?style=flat-square&logo=semanticweb)
+![Accuracy](https://img.shields.io/badge/Accuracy-94%25-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 A high-performance biomedical text classifier built with **BioBERT** to determine if a given text is related to **PRETOX** (Preclinical Toxicology). This tool is designed to help researchers efficiently sift through vast amounts of literature to find toxicology-relevant information.
 
